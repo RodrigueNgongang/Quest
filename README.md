@@ -20,3 +20,7 @@ We export must of the necessary information that are reused by other stacks.
 4.a. the vpc stack name
 4.b. the ecs-cluster stack name 
 4.c. the image uri
+
+
+### Outputs.
+See the images folder.
