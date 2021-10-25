@@ -17,9 +17,8 @@ We export must of the necessary information that are reused by other stacks.
 2. Run ecs-cluster.yaml to setup the cluster
 3. Tag and upload the image previously created ----> docker tag example AccountId.dkr.ecr.us-east-1.amazonaws.com/ecs-cluster-ecrrepoitory-xxxxxxxxxx (update the region and the cluster accordingly) / docker push AccountId.dkr.ecr.us-east-1.amazonaws.com/ecs-cluster-ecrrepoitory-xxxxxxxxx
 4. Run fargate with the following input paramters:
-
 4.a. the vpc stack name
-4.b. the ecs-cluster stack name 
+4.b. the ecs-cluster stack name
 4.c. the image uri
 
 
