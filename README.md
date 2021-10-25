@@ -24,3 +24,5 @@ We export must of the necessary information that are reused by other stacks.
 
 ### Outputs.
 See the images folder.
+
+![Final_IndexPage](https://user-images.githubusercontent.com/42192863/138622850-e828601c-f002-4301-9b4e-5579248c2484.png)
